@@ -77,7 +77,11 @@
       "subline": "Learn the basics of the development workflow",
       "actions": [
         {
-          "variant": "orange",
+          "label": "OK",
+          "icon": "arrowRight"
+        },
+        {
+          "variant": "button",
           "label": "Follow our guides",
           "icon": "arrowRight",
           "url": "/guides/"
